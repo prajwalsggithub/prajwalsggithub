@@ -1,10 +1,10 @@
-
+![Profile Views](https://komarev.com/ghpvc/?username=prajwalsggithub&label=Profile%20Views&color=0e75b6&style=flat)
 ---
 
 # 👨‍💻 Prajwal  Gawande
 
 **Cloud & DevOps Engineer | AWS | Automation | Java| System Administration**
-![Profile Views](https://komarev.com/ghpvc/?username=prajwalsggithub&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 
 📍 Yavatmal, Maharashtra
