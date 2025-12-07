@@ -1,13 +1,9 @@
-Below is a **professional GitHub Portfolio README** tailored **specifically for you, Prajwal Shriram Gawande**, using all the skills, projects, and details from your resume — but rewritten cleanly and professionally for GitHub.
-
-You can copy-paste this into:
-👉 **`prajwalsggithub/prajwalsggithub` → README.md**
 
 ---
 
-# 👨‍💻 Prajwal Shriram Gawande
+# 👨‍💻 Prajwal  Gawande
 
-**Cloud & DevOps Engineer | AWS | Automation | System Administration**
+**Cloud & DevOps Engineer | AWS | Automation | Java| System Administration**
 
 📍 Yavatmal, Maharashtra
 📧 [prajwalgawande1311@gmail.com](mailto:prajwalgawande1311@gmail.com)
