@@ -75,26 +75,6 @@ I enjoy working with AWS, DevOps pipelines, system administration, and hands-on 
 
 ---
 
-## 📂 Projects
-
-### 🔹 **Paytm Full-Stack Web Application Deployment on AWS**
-
-Designed and deployed a **Paytm-like recharge application** on AWS using a secure **3-tier architecture**.
-
-* Frontend: *HTML, CSS, JavaScript*
-* Backend APIs: *Python + Flask*
-* AWS Services: *EC2, RDS MySQL, IAM, Load Balancer*
-  Ensured secure, scalable, and reliable performance.
-
----
-
-### 🔹 **Automated Solar Panel Cleaning System**
-
-Built using **ESP32** with a three-stage cleaning mechanism (spraying, brushing, wiping).
-Engineered for automation, efficiency, and maximum dust removal.
-
----
-
 ## 🏅 Certifications
 
 * **Basic Networking** – Cisco Networking Academy
@@ -112,7 +92,7 @@ Engineered for automation, efficiency, and maximum dust removal.
 
 ## 📫 Let's Connect
 
-❤️ Always open to collaboration, cloud projects, and DevOps opportunities.
+❤️ cloud projects, and DevOps opportunities.
 Feel free to reach out!
 
 🔗 **GitHub:** [https://github.com/prajwalsggithub](https://github.com/prajwalsggithub)
