@@ -10,7 +10,7 @@
 📍 Yavatmal, Maharashtra
 📧 [prajwalgawande1311@gmail.com](mailto:prajwalgawande1311@gmail.com)
 📱 +91 93599 70571
-🔗 [LinkedIn](https://www.linkedin.com/in/prajwal-gawande)
+🔗 [LinkedIn](https://www.linkedin.com/in/prajwalgawande/)
 💻 [GitHub](https://github.com/prajwal-gawande)
 
 ---
@@ -96,6 +96,6 @@ I enjoy working with AWS, DevOps pipelines, system administration, and hands-on 
 Feel free to reach out!
 
 🔗 **GitHub:** [https://github.com/prajwal-gawande](https://github.com/prajwal-gawande)
-🔗 **LinkedIn:** [https://www.linkedin.com/in/prajwal-gawande](https://www.linkedin.com/in/prajwal-gawande)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/prajwalgawande/](https://www.linkedin.com/in/prajwalgawande/)
 
 
