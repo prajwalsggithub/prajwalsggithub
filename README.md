@@ -95,7 +95,7 @@ I enjoy working with AWS, DevOps pipelines, system administration, and hands-on 
 ❤️ cloud projects, and DevOps opportunities.
 Feel free to reach out!
 
-🔗 **GitHub:** [https://github.com/prajwalsggithub](https://github.com/prajwalsggithub)
-🔗 **LinkedIn:** [https://www.linkedin.com/in/prajwal-gawande-4157ba250/](https://www.linkedin.com/in/prajwal-gawande-4157ba250/)
+🔗 **GitHub:** [https://github.com/prajwal-gawande](https://github.com/prajwal-gawande)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/prajwal-gawande](https://www.linkedin.com/in/prajwal-gawande)
 
 
